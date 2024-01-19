@@ -14,18 +14,31 @@ You can click the Preview link to take a look at your changes.
 
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="./images/head.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="images/head.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-	 <img height="50" alt="My Name is Javeley and I like" src="./images/psersonal_note.svg" />
-  <img alt="Afrog" height="50" src="images/afrog.gif"> 
+	<img height="50" alt="My Name is Javeley and I like" src="./images/psersonal_note.svg" />
+	<img alt="Afrog" height="50" src="images/afrog.gif"> 
+  <br />
+  <br />
 
-  <br />
-  <br />
-  
-<a href="https://app.daily.dev/javeley"><img src="https://api.daily.dev/devcards/5602940ab3c248749ccc790d07373cf5.png?r=w4c" width="150" alt="javeleyQAQ's Dev Card"/></a>
+<table  border="0">
+  <tr>
+    <td rowspan="3"><img src="https://api.daily.dev/devcards/5602940ab3c248749ccc790d07373cf5.png?r=w4c" width="160" style="margin-left: 10%;" align="left" alt="javeleyQAQ's Dev Card"/></td>
+    	<td>
+		<ul>
+		<li> 👋 Hi, I’m @JaveleyQAQ</li> 
+		<li> 👀 I’m interested in ...</li> 
+		<li> 🌱 I’m currently learning ...</li> 
+		<li> 💞️ I’m looking to collaborate on ...</li> 
+		<li> 📫 How to reach me ... <br />
+		</ul>
+	</td>
+  </tr>
+</table>
+ 
 </div>
-
+  
 
 <!-- Social -->
 <table width="100%" align="center">
@@ -125,7 +138,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-| <a href="https://github.com/JaveleyQAQ"><img width="24" src="https://avatars.githubusercontent.com/u/132129852?v=4" alt="JaveleyQAQ" /> JaveleyQAQ</a> |1/14/2024, 3:53:13 PM| 哥哥进来玩呀～
+| <a href="https://github.com/JaveleyQAQ"><img width="24" src="https://avatars.githubusercontent.com/u/132129852?v=4" alt="JaveleyQAQ" /> JaveleyQAQ</a> |1/14/2024, 3:53:13 PM| 🥶🥶🥶 README! 🥶🥶🥶
 
 <!-- /Guestbook -->
 
