@@ -22,15 +22,103 @@ You can click the Preview link to take a look at your changes.
 
   <br />
   <br />
+  
 <a href="https://app.daily.dev/javeley"><img src="https://api.daily.dev/devcards/5602940ab3c248749ccc790d07373cf5.png?r=w4c" width="150" alt="javeleyQAQ's Dev Card"/></a>
 </div>
 
 
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://javeley.vercel.app">
+<strong> </strong>
+<br />
+
+<p>
+<img alt="Globe" height="100" src="images/1.jpg">
+</a>
+</p>
+
+</td>
 
 
+<td align="center">
+<a href="https://javeley.vercel.app/">
+<strong>  </strong>
+<br />
 
+<p>
+<img height="100" alt="Music" src="images/2.jpg"> 
+</a>
+</p>
+</td>
+
+<td align="center">
+<a href="https://javeley.vercel.app/">
+<strong>  </strong>
+<br />
+
+<p>
+<img height="100" alt="Music" src="images/3.jpg"> 
+</a>
+</p>
+</td>
+
+<td align="center">
+<a href="https://javeley.vercel.app/">
+<br />
+<p>
+<img height="100" alt="Music" src="images/4.jpg"> 
+</a>
+</p>
+</td>
+</tr>
+
+
+<!-- Social 2 -->
+
+<tr>
+<td align="center">
+<a href="https://javeley.vercel.app/">
+<p>
+<img height="100" alt="Music" src="images/4.jpg"> 
+</a>
+</p>
+</td>
+
+
+<td align="center">
+<a href="https://javeley.vercel.app/">
+<p>
+<img height="100" alt="Music" src="images/3.jpg"> 
+</a>
+</p>
+</td>
+
+<td align="center">
+<a href="https://javeley.vercel.app/">
+<p>
+<img height="100" alt="Music" src="images/2.jpg"> 
+</a>
+</p>
+</td>
+
+<td align="center">
+<a href="https://javeley.vercel.app/">
+<p>
+<img height="100" alt="Music" src="images/1.jpg"> 
+</a>
+</p>
+</td>
+
+
+</tr>
+</table>
+
+<br />
 <div align="center">
-<a href="https://github.com/JaveleyQAQ/JaveleyQAQ/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
 
