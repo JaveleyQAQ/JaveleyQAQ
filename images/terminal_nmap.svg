@@ -39,9 +39,16 @@ WARRANTY, to the extent permitted by applicable law.
 
 Last generated: 17 Jan 2024, 10:18:38
 </div>
-<div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Simon Lecoq</b> registered=7y, uid=3968, gid=2
-  contributed to 16 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
-  followed by <b>1114</b> users
+<div class="stdin"><span class="ps1-path">Javeley@Ubuntu</span>:<span class="ps1-location">~</span>$ nmap 0.0.0.1 -p 1-65535  </div><div class="stdout"><b>Starting Nmap 7.80 ( https://nmap.org ) at </b> 2022-05-01 12:00 UTC
+  Nmap scan report for localhost (0.0.0.1) <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
+  Host is up (0.00010s latency).
+  <b>Not shown: 65533 closed ports
+  PORT      STATE SERVICE
+  22/tcp    open  ssh
+  80/tcp    open  http
+  443/tcp   open  https
+  ...
+</b>
 </div>
 
 
