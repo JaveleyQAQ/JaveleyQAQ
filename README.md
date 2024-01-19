@@ -25,59 +25,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://app.daily.dev/javeley"><img src="https://api.daily.dev/devcards/5602940ab3c248749ccc790d07373cf5.png?r=w4c" width="150" alt="javeleyQAQ's Dev Card"/></a>
 </div>
 
-<!-- Social -->
-<div style="display: flex; justify-content: center;">
-  <div style="margin: 10px;">
-    <a href="https://brunnerliv.io">
-      <strong>Visit my personal website </strong>
-      <br />
-      <br />
-      <img alt="Globe" height="80" src="images/1.jpg">
-    </a>
-  </div>
-    <div style="margin: 10px;">
-    <a href="https://javeley.vercel.app/">
-      <strong>Visit my personal website </strong>
-      <br />
-      <br />
-      <img alt="Globe" height="80" src="images/2.jpg">
-    </a>
-  </div>
-  <div style="margin: 10px;">
-    <a href="https://javeley.vercel.app/">
-      <strong>Visit my personal website </strong>
-      <br />
-      <br />
-      <img alt="Globe" height="80" src="images/3.jpg">
-    </a>
-  </div>
-</div>
-<div style="display: flex; justify-content: center;">
-  <div style="margin: 10px;">
-    <a href="https://javeley.vercel.app/">
-      <strong>Visit my personal website </strong>
-      <br />
-      <br />
-      <img alt="Globe" height="80" src="images/4.jpg">
-    </a>
-  </div>
-    <div style="margin: 10px;">
-    <a href="https://javeley.vercel.app/">
-      <strong>Visit my personal website </strong>
-      <br />
-      <br />
-      <img alt="Globe" height="80" src="images/2.jpg">
-    </a>
-  </div>
-  <div style="margin: 10px;">
-    <a href="https://javeley.vercel.app/">
-      <strong>Visit my personal website </strong>
-      <br />
-      <br />
-      <img alt="Globe" height="80" src="images/4.jpg">
-    </a>
-  </div>
-</div>
+
 
 
 
