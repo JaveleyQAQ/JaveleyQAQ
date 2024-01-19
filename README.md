@@ -8,3 +8,6 @@
 JaveleyQAQ/JaveleyQAQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<a href="https://app.daily.dev/javeley"><img src="https://api.daily.dev/devcards/5602940ab3c248749ccc790d07373cf5.png?r=w4c" width="400" alt="javeleyQAQ's Dev Card"/></a>
