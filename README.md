@@ -131,7 +131,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/JaveleyQAQ/JaveleyQAQ/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
 
