@@ -150,7 +150,10 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/JaveleyQAQ/count.svg)
+<br />
 
+<!--<img src="https://count.getloli.com/get/@:JaveleyQAQ" alt=":JaveleyQAQ" />
+-->
 
 <img src="./images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
