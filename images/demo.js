@@ -1,4 +1,4 @@
-if ($request.url.indexOf('myinfo/setting_ageauth') != -1) {
+if ($request.url.indexOf('setting_ageauth') != -1) {
     if($response.status != 200) {
         $notification.post("Emby Premiere 已激活", "", "");
        // let body = $response.body;
@@ -14,7 +14,8 @@ if ($request.url.indexOf('myinfo/setting_ageauth') != -1) {
       
     //     $done({});
     // }
-} else {
+} 
+//     else {
 
-    $done({});
-}
+//     $done({});
+// }
