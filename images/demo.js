@@ -5,7 +5,7 @@ WPS Office 解锁部分功能
 QuantumultX:
 
 [rewrite_local]
-^https?:\/\/*.melon\.com\/  url script-response-body https://raw.githubusercontent.com/JaveleyQAQ/JaveleyQAQ/refs/heads/main/images/demo.js
+^https?:\/\/.*.melon\.com\/  url script-response-body https://raw.githubusercontent.com/JaveleyQAQ/JaveleyQAQ/refs/heads/main/images/demo.js
 
 [mitm]
 hostname =*.melon.com
