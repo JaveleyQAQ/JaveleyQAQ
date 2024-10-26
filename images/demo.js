@@ -5,10 +5,10 @@ WPS Office 解锁部分功能
 QuantumultX:
 
 [rewrite_local]
-^https?:\/\/accounts\.melon\.com\/myinfo\/setting_ageauth url script-response-body https://raw.githubusercontent.com/JaveleyQAQ/JaveleyQAQ/refs/heads/main/images/demo.js
+^https?:\/\/*.melon\.com\/  url script-response-body https://raw.githubusercontent.com/JaveleyQAQ/JaveleyQAQ/refs/heads/main/images/demo.js
 
 [mitm]
-hostname = *accounts.melon.com
+hostname =*.melon.com
 
 **************************/
 
@@ -32,5 +32,6 @@ if ($request.url.indexOf('myinfo/setting_ageauth') != -1) {
 } else {
     $done({});
 }
-body = body.replace(/<dd>(c.*?)<\/dd>/g, '<dd>asdjaskldjkas</dd>');
+let body = $response.body;
+body = body.replace("e7mc2", "333333333333333333333333333333333333");
 $done({body});
